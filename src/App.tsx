@@ -9,6 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p><h1>Atithi Devi Bhav</h1></p>
       </header>
+      <p> <h3> Welcome to our Page! The main features will be coming soon....</h3></p>
     </div>
   );
 }
